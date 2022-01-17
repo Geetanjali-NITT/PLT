@@ -6,6 +6,7 @@ Begin VB.Form MainForm
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   4560
+   FillColor       =   &H00C0C0FF&
    FillStyle       =   0  'Solid
    LinkTopic       =   "Form1"
    ScaleHeight     =   3015
